@@ -1,0 +1,38 @@
+{
+  "name": "project_workbook",
+  "version": "0.1.0",
+  "description": "Aplikacija za upravljanje projektima. Završni rad 2020",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "Nikola Semjaniv",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.16.0",
+    "firebase": "^7.19.1",
+    "jquery": "^3.5.1",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
+    "vue-socket.io": "^3.0.10",
+    "vuedraggable": "^2.24.1",
+    "vuex": "^3.4.0",
+    "vuex-persistedstate": "^3.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
